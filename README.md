@@ -29,3 +29,7 @@ Future Scope
 ------------
 1) The game can be played by more than one dices. (i.e. if there are two dices then the numbers from 2 to 12 will be generated).
 2) On getting a 6, you get another turn and on getting 3 consecutive 6s, all the three of those get cancelled.
+
+Class Diagram
+-------------
+
